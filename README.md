@@ -1,4 +1,4 @@
-# 📌 E-commerce Health Store
+# 📌 E-commerce Health Store עידן דוד
 
 ✅ **פרויקט חנות אינטרנטית למכירת מוצרי בריאות**  
 🔗 **פותח באמצעות: React (Frontend) + Node.js & Express (Backend) + MongoDB (Database)**  
@@ -56,8 +56,8 @@
 ## **💾 התקנה והפעלה**
 1. **שכפול (Clone) של הפרויקט:**
    ```bash
-   git clone https://github.com/your-repo/ecommerce-health-store.git
-   cd ecommerce-health-store
+ git clone https://github.com/idanohs1231/full-stack-project.git
+cd full-stack-project
    ```
 
 2. **התקנת התלויות** (Frontend + Backend):
