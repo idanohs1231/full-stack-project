@@ -1,0 +1,41 @@
+/* רקע ה-Navbar במצב לילה */
+[data-bs-theme="dark"] .navbar {
+  background-color: var(--navbar-dark-bg) !important;
+  border-bottom: 1px solid #555; /* קו הפרדה עדין */
+}
+
+
+
+[data-bs-theme="dark"] {
+  background-color: #1b1b1b !important; 
+  color: #ffffff !important;
+}
+
+/* התאמת כרטיסי המוצרים */
+.product-card {
+  border-radius: 10px;
+  overflow: hidden;
+  transition: transform 0.3s ease-in-out;
+}
+
+.product-card:hover {
+  transform: scale(1.03);
+}
+
+/* כפתורים במצב כהה */
+[data-bs-theme="dark"] .btn-success {
+  background-color: #28a745 !important;
+  border-color: #28a745 !important;
+}
+
+[data-bs-theme="dark"] .btn-success:hover {
+  background-color: #218838 !important;
+}
+
+[data-bs-theme="dark"] .btn-danger {
+  background-color: #dc3545 !important;
+}
+
+[data-bs-theme="dark"] .btn-danger:hover {
+  background-color: #c82333 !important;
+}

@@ -1,0 +1,4 @@
+[2025-03-11T09:13:17.823Z] ERROR: ❌ Error loading routes: Cannot find module 'express-validator'
+Require stack:
+- C:\Users\ASUS\Desktop\full stack-project\server\src\routes\userRoutes.js
+- C:\Users\ASUS\Desktop\full stack-project\server\src\server.js

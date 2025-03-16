@@ -1,0 +1,12 @@
+[2025-03-16T11:13:10.291Z] INFO: 🔵 בקשה חדשה: PUT /api/products/67c996c2e82c94dc2f6e4ee8/updateStock
+[2025-03-16T11:13:10.292Z] WARN: ⚠️ Route not found: /api/products/67c996c2e82c94dc2f6e4ee8/updateStock
+[2025-03-16T11:13:10.297Z] INFO: 🔵 בקשה חדשה: PUT /api/products/67c996c2e82c94dc2f6e4ee8/updateStock
+[2025-03-16T11:13:10.298Z] WARN: ⚠️ Route not found: /api/products/67c996c2e82c94dc2f6e4ee8/updateStock
+[2025-03-16T11:13:34.941Z] INFO: 🔵 בקשה חדשה: GET /api/products?minPrice=0&maxPrice=500
+[2025-03-16T11:13:34.962Z] INFO: 🔵 בקשה חדשה: GET /api/products?minPrice=0&maxPrice=500
+[2025-03-16T11:16:28.200Z] INFO: 🔵 בקשה חדשה: GET /api/products?minPrice=0&maxPrice=500
+[2025-03-16T11:16:28.215Z] INFO: 🔵 בקשה חדשה: GET /api/products?minPrice=0&maxPrice=500
+[2025-03-16T11:16:29.855Z] INFO: 🔵 בקשה חדשה: GET /api/products/67c99672e82c94dc2f6e4ee0
+[2025-03-16T11:16:29.870Z] INFO: 🔵 בקשה חדשה: GET /api/products/67c99672e82c94dc2f6e4ee0
+[2025-03-16T11:17:50.173Z] INFO: 🔵 בקשה חדשה: GET /api/products?minPrice=0&maxPrice=500
+[2025-03-16T11:17:50.189Z] INFO: 🔵 בקשה חדשה: GET /api/products?minPrice=0&maxPrice=500
